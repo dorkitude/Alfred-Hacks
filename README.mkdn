@@ -1,14 +1,12 @@
-Installaltion
-=============
+Installation
+============
 
-Install an extension by opening the ".alfredapp" (in the `binaries` folder)
-file in Alfred for Mac.
+You can install an extension by opening the ".alfredapp" (in the `binaries` 
+folder) file in Alfred for Mac.
 
 
 Usage
 =====
-
-
 
 iCal Quick Entry
 ----------------
