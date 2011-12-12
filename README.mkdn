@@ -60,3 +60,11 @@ And my clipboard became:
 
 This little extension is super useful since I am anal about the filenames of
 legal docs, contracts, journal entries, and that sort of thing.
+
+
+Google in a new Chrome window
+-----------------------------
+
+In Alfred, type `gw {x}` where `{x}` is a search query.  This will perform
+a Google search in a new window, so as not to disturb your precious
+500-something tabs!
