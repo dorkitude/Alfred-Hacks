@@ -41,3 +41,22 @@ Or:
 Or, for a MacVim users:
 
     bg mvim ~/.vimrc
+
+
+Copy Date to Clipboard
+----------------------
+
+In Alfred, type `date` and your clipboard will be populated with today's date
+in `YYYY-MM-DD` format.
+
+For example, I just typed this into Alfred:
+
+    date
+
+And my clipboard became:
+
+    2011-12-12 
+
+
+This little extension is super useful since I am anal about the filenames of
+legal docs, contracts, journal entries, and that sort of thing.
