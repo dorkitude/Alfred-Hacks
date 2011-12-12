@@ -1,0 +1,23 @@
+Install thing
+=============
+
+Install the extension by opening the ".alfredapp" file in Alfred for Mac.
+
+
+Use thing
+=========
+
+In Alfred, just type `cal {X}` where X is natural language describing an event.
+
+This extension will the event to your iCal via OS X Lion's "Quick Event"
+feature.
+
+For example, try typing this into Alfred:  
+
+    cal Dinner with Michelle tomorrow at 6:30pm
+
+
+Love thing
+==========
+
+**Boom!**  Now you have an event in your iCal!
