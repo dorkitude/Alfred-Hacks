@@ -8,10 +8,11 @@ folder) file in Alfred for Mac.
 Usage
 =====
 
+
 iCal Quick Entry
 ----------------
 
-In Alfred, just type `cal {X}` where X is natural language describing an event.
+In Alfred, just type `cal {X}` where `{X}` is natural language describing an event.
 
 This extension will the event to your iCal via OS X Lion's "Quick Event"
 feature.
@@ -19,3 +20,24 @@ feature.
 For example, try typing this into Alfred:  
 
     cal Dinner with Michelle tomorrow at 6:30pm
+
+
+Background Command
+------------------
+
+In Alfred, type `bg {X}` where `{X}` is a terminal command.
+
+The extension will execute your command in the background and send the output
+to Growl.
+
+For example, try typing this into Alfred:
+
+    bg curl -v http://google.com
+
+Or:
+
+    bg whois dorkitude.com
+
+Or, for a MacVim users:
+
+    bg mvim ~/.vimrc
