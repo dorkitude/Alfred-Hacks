@@ -30,15 +30,21 @@ In Alfred, type `bg {X}` where `{X}` is a terminal command.
 The extension will execute your command in the background and send the output
 to Growl.
 
-For example, try typing this into Alfred:
+This is *super useful* and you'll discover more reasons to use it over time.
+Trust me, install this and you'll find it starting to replace tons of Terminal
+commands.
 
-    bg curl -v http://google.com
+Here are some examples off the top of my head.
 
-Or:
+Making a directory:
+    
+    bg mkdir ~/Library/Scripts/Applications/OmniFocus
+
+Looking up a domain:
 
     bg whois dorkitude.com
 
-Or, for a MacVim users:
+Launching MacVim (in this case, opening my Vim configuration file in it):
 
     bg mvim ~/.vimrc
 
