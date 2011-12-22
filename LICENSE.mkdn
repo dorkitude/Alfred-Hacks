@@ -1,0 +1,11 @@
+![ShareAlike][sharealike-image]
+
+Alfred-Hacks by [dorkitude][dorkitude] is licensed under a [Creative Commons
+Attribution-ShareAlike 3.0 Unported License][license].  Based on a work at
+[github.com][repository].  Permissions beyond the scope of this license may be
+available by contacting dorkitude via GitHub.
+
+[dorkitude]: http://dorkitude.com
+[repository]: https://github.com/dorkitude/Alfred-Hacks
+[license]: http://creativecommons.org/licenses/by-sa/3.0/
+[sharealike-image]: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
