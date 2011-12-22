@@ -1,0 +1,1 @@
+set the clipboard to "⌘"
