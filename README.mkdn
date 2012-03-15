@@ -85,6 +85,14 @@ This little extension is super useful since I am anal about the filenames of
 legal docs, contracts, journal entries, and that sort of thing.
 
 
+Copy File Contents to Clipboard
+-------------------------------
+
+In Alfred, navigate to a file using commands such as `open `, `~` or `/`, and
+press the right arrow to open the file actions. Select _Copy Contents to
+Clipboard_ to add the content of the file to the clipboard.
+
+
 Google in a new Chrome window
 -----------------------------
 
