@@ -9,23 +9,6 @@ Usage
 =====
 
 
-Copy Command Key to Clipboard
------------------------------
-
-I occasionally find myself wanting to enter the symbol for Apple's Command Key
-(⌘) into something I'm writing -- documentation, tweets, IM conversations, etc.
-
-I got tired of googling for "Apple Command Key" or "St. John's Arms" just to
-copy/paste the symbol, so I made this simple Alfred extension.
-
-Once it's installed, you can just type this into Alfred:
-
-    `commandkey`
- 
-...and the script will put the symbol in your clipboard **⌘**.  Paste on, young
-soldier!
-
-
 iCal Quick Entry
 ----------------
 
@@ -66,6 +49,23 @@ Launching MacVim (in this case, opening my Vim configuration file in it):
     bg mvim ~/.vimrc
 
 
+Copy Command Key to Clipboard
+-----------------------------
+
+I occasionally find myself wanting to enter the symbol for Apple's Command Key
+(⌘) into something I'm writing -- documentation, tweets, IM conversations, etc.
+
+I got tired of googling for "Apple Command Key" or "St. John's Arms" just to
+copy/paste the symbol, so I made this simple Alfred extension.
+
+Once it's installed, you can just type this into Alfred:
+
+    `commandkey`
+ 
+...and the script will put the symbol in your clipboard **⌘**.  Paste on, young
+soldier!
+
+
 Copy Date to Clipboard
 ----------------------
 
@@ -83,6 +83,14 @@ And my clipboard became:
 
 This little extension is super useful since I am anal about the filenames of
 legal docs, contracts, journal entries, and that sort of thing.
+
+
+Copy File Contents to Clipboard
+-------------------------------
+
+In Alfred, navigate to a file using commands such as `open `, `~` or `/`, and
+press the right arrow to open the file actions. Select _Copy Contents to
+Clipboard_ to add the content of the file to the clipboard.
 
 
 Google in a new Chrome window
